@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Tuning_230420">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="TRAINER10-NS2:DOM-PPA01\ns2">
+          <Created>2023-04-20T09:30:55.1141093+02:00</Created>
+          <Type>SQL</Type>
+          <Server>TRAINER10-NS2</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00_Intro.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>00_Intro.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01_DB_Basics.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01_DB_Basics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02_Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Locking.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03_Locking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Data_Compression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04_Data_Compression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_QueryStore.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_QueryStore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_ParameterSniffing.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_ParameterSniffing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Test.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Test.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
